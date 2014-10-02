@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import java.util.Locale;
 
 /**
- * @author Codelord
+ * @author Codeoord afasdfas
  */
 public class MyActivity extends Activity {
 
@@ -40,7 +40,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
 
-
+        int x=0;
 
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
